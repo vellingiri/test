@@ -16,3 +16,4 @@ COPY . /data
 ENTRYPOINT [ "python" ]
 
 CMD [ "web.py" ]
+
